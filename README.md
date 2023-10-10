@@ -1,2 +1,2 @@
-# SEProtot
+# SEProto
 edit on main
